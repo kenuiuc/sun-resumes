@@ -1,5 +1,5 @@
 # Althrun Sun
-- Github: `[TODO:]`
+- Github: `https://github.com/Althrun-sun`
 - Website: `[TODO:]`
 - Linkedin: `[TODO:]`
 - Email: althrunsun@gmail.com

@@ -36,12 +36,11 @@
 - Used JOI for data validation and prevent NoSQL injection and cross-site scripting by `[TODO:]` **the librareis used here**
 - Deployed the website on AWS ECS with Docker.
 
-### Facebook Clone (Java and Python)
+### Facebook Clone (Java)
 `[IMPORTANT:]` **DO NOT Mention "Microservices" if You are NOT PREPARED TO ANSWER Related Questions in Interviews**
 `[TODO:]` Describe the product you built to a non-tech person in one sentence.
 - Built REST APIs using Java and Spring Boot to do CRUD operations against MySQL database.
-- Implemented a NLP module using Python and `[TODO: NLP library]`
-- Made a Web UI with `TODO:` **[add specific UI features you've implmented here]** using React.
+- Made a Web UI with Nextjs and TailwindCSS using React.
 
 ## Skills
 - Linux, Git, Docker, MongoDB, MySQL, AWS ECS

@@ -16,7 +16,7 @@
 `[TODO:]` Describe the product you built to a non-tech person in one sentence.
 - Implemented a NLP based job listing classification system.
 - `[TODO:]` Describe the NLP algorithsm here.
-- Built REST APIs using Django and made interactive web UI with React.
+- Built REST APIs using Python Django and made interactive web UI with Vue.
 
 ### Frontend Developer Intern, Hecai Technology
 `[TODO:]` Describe the product you built to a non-tech person in one sentence.

@@ -1,6 +1,6 @@
 # Althrun Sun
 - Github: `https://github.com/Althrun-sun`
-- Website: `[TODO:]`
+- Website: `http://ec2-54-164-84-85.compute-1.amazonaws.com:3000`
 - Linkedin: `[www.linkedin.com/in/althrun-sun-741241239]`
 - Email: althrunsun@gmail.com
 - Tel: 236-234-7381
@@ -13,9 +13,9 @@
 ## Work Experience
 
 ### Software Engineer, Kaiao Technology
-`[TODO:]` Describe the product you built to a non-tech person in one sentence.
+- The back-end development team I work in is mainly responsible for the server of the company's job hunting website project.
 - Implemented a NLP based job listing classification system.
-- `[TODO:]` Describe the NLP algorithsm here.
+- Assist algorithm engineers in model training and data preprocessing
 - Built REST APIs using Python Django and made interactive web UI with Vue.
 
 ### Frontend Developer Intern, Hecai Technology

@@ -25,8 +25,8 @@
 - Built APIs to retrieve data from MySQL databases.
 
 ## [SUPER IMPORTANT TODO:] Awards and Publications
--  The First Prize of Asia and Pacific Mathematical Contest in Modeling
--  A traffic flow detection system based on YOLOv5-IEEE conference
+-  Award: The First Prize of Asia and Pacific Mathematical Contest in Modeling
+-  Publication: A traffic flow detection system based on YOLOv5
 
 ## Personal Projects
 

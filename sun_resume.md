@@ -25,8 +25,8 @@
 - Built APIs to retrieve data from MySQL databases.
 
 ## [SUPER IMPORTANT TODO:] Awards and Publications
-- `[TODO:]` your "math modeling" competition awards
-- `[TODO:]` your computer vision paper
+-  The First Prize of Asia and Pacific Mathematical Contest in Modeling
+-  A traffic flow detection system based on YOLOv5-IEEE conference
 
 ## Personal Projects
 

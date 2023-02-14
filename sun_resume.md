@@ -1,7 +1,7 @@
 # Althrun Sun
 - Github: `https://github.com/Althrun-sun`
 - Website: `[TODO:]`
-- Linkedin: `[TODO:]`
+- Linkedin: `[www.linkedin.com/in/althrun-sun-741241239]`
 - Email: althrunsun@gmail.com
 - Tel: 236-234-7381
 - Address: 5568-20 Kings Rd, Vancouver BC
@@ -44,7 +44,7 @@
 - Made a Web UI with `TODO:` **[add specific UI features you've implmented here]** using React.
 
 ## Skills
-- `[TODO: Linux]`, Git, Docker, MongoDB, MySQL, AWS ECS
-- Python, Django, scikit-learn, PyTorch
-- JavaScript, NodeJS, Vue, React
+- Linux, Git, Docker, MongoDB, MySQL, AWS ECS
+- Python, Django, Flask, scikit-learn, PyTorch
+- JavaScript, NodeJS, Vue, React, Nextjs
 - Java, Spring Boot

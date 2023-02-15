@@ -1,6 +1,5 @@
 # Althrun Sun
 - Github: `https://github.com/Althrun-sun`
-- Website: `http://ec2-54-164-84-85.compute-1.amazonaws.com:3000`
 - Linkedin: `[www.linkedin.com/in/althrun-sun-741241239]`
 - Email: althrunsun@gmail.com
 - Tel: 236-234-7381

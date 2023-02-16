@@ -12,7 +12,7 @@
 ## Work Experience
 
 ### Software Engineer, Kaiao Technology
-- The back-end development team I work in is mainly responsible for the server of the company's job hunting website project.
+- I build the backend server of the job hunting website using Python Django REST frame work with the backend development team.
 - Implemented a NLP based job listing classification system.
 - Using NTKL for text processing and tuning pre-trained models with BERT as feature extractor.
 - Built REST APIs using Python Django and made interactive web UI with Vue.

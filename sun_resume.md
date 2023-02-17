@@ -32,7 +32,7 @@
 - A website that displays cluster maps and allows logined users to upload and manage campgrounds listings and reviews.
 - Implemented a full stack GIS website using NodeJS, MongDB and Mapbox
 - Used JOI for data validation and prevent NoSQL injection and cross-site scripting by sanitize-html,using express-session for session management.
-- Deployed the website on AWS ECS with Docker(URL:http://ec2-54-164-84-85.compute-1.amazonaws.com:3000).
+- Deployed the website on AWS ECS with Docker.
 
 ### Facebook Clone (Java)
 - An over-simplified Facebook website that allows users to log in with Facebook account and publish posts with images.

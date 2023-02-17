@@ -40,8 +40,7 @@
 - Made a Web UI and Login authentication with Nextjs and TailwindCSS using React with Facebook's APIs.
 
 ## Skills
-- Linux, Git, Docker, MongoDB, MySQL, PostgreSQL, AWS ECS
-- Python, Django, Flask, scikit-learn, PyTorch
-- JavaScript, NodeJS, Vue, React, Nextjs
-- Java, Spring Boot, Spring Cloud
-- C++, STL, OpenGL
+- Linux, Git, Docker, MongoDB, MySQL, AWS ECS
+- Python, Django, scikit-learn, PyTorch
+- JavaScript, NodeJS, Vue, React
+- Java, Spring Boot

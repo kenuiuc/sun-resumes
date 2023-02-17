@@ -12,10 +12,10 @@
 ## Work Experience
 
 ### Software Engineer, Kaiao Technology
-- Made a job hunting website using NLP technologies.
-- Implemented a NLP based job listing classification system.
-- Using NTKL for text processing and tuning pre-trained models with BERT as feature extractor.
-- Built REST APIs using Python Django and made interactive web UI with Vue.
+- Build a job hunting website using NLP technologies.
+- Developed a full-stack application using PostgreSQL and Python Django REST framework to CRUD the Jobs location, description, and recruiting company information.
+- Implemented a NLP based job listing classification system,using NTKL for text processing and tuning pre-trained models with BERT as feature extractor.
+- Built web UI with Vue.
 
 ### Frontend Developer Intern, Hecai Technology
 - Enhanced the mobile app using VUE and uni-app for multi-terminal development (Android&IOS).
@@ -31,7 +31,7 @@
 ### Yelp Camp Clone (JavaScript)
 - A website that displays cluster maps and allows logined users to upload and manage campgrounds listings and reviews.
 - Implemented a full stack GIS website using NodeJS, MongDB and Mapbox
-- Used JOI for data validation and prevent NoSQL injection and cross-site scripting by sanitize-html,using express-session for session management.
+- Build middleware to achieve the data validation by JOI and prevent NoSQL injection and cross-site scripting by sanitize-html, using express-session for session management.
 - Deployed the website on AWS ECS with Docker.
 
 ### Facebook Clone (Java)

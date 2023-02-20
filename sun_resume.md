@@ -1,6 +1,6 @@
 # Althrun Sun
-- Github: [github.com/Althrun-sun](github.com/Althrun-sun)
-- Linkedin: [linkedin.com/in/althrun-sun-741241239](linkedin.com/in/althrun-sun-741241239)
+- Github: [github.com/Althrun-sun](https://github.com/Althrun-sun)
+- Linkedin: [linkedin.com/in/althrun-sun-741241239](https://linkedin.com/in/althrun-sun-741241239)
 - Email: althrunsun@gmail.com
 - Tel: 236-234-7381
 - Address: 5568-20 Kings Rd, Vancouver BC
